@@ -1,0 +1,18 @@
+{
+  "Users": [
+    {
+      "Hwid": "aeb1eb572341dc5605df9fd2288fda2c8409d1146ba0b8849769fe3dc8c0c23c",
+      "UID": "812",
+      "Nick": "Sant1kx",
+      "Role": "Admin",
+      "Type": "Premium"
+    },
+    {
+      "Hwid": "f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1",
+      "UID": "1002",
+      "Nick": "VipUser",
+      "Role": "VIP",
+      "Type": "premium"
+    }
+  ]
+}
