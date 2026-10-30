@@ -1,14 +1,14 @@
 {
   "Users": [
     {
-      "Hwid": "aeb1eb572341dc5605df9fd2288fda2c8409d1146ba0b8849769fe3dc8c0c23c",
+      "Hwid": "",
       "UID": "812",
       "Nick": "Sant1kx",
       "Role": "Admin",
       "Type": "Premium"
     },
     {
-      "Hwid": "1b329c2c236eee0749464a9af68d6a74bde0b887b134dcb914581ab0e7d68909",
+      "Hwid": "",
       "UID": "1337",
       "Nick": "Kir1xx",
       "Role": "Media",
