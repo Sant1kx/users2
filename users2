@@ -1,23 +1,23 @@
 {
   "Users": [
     {
-      "Hwid": "aeb1eb572341dc5605df9fd2288fda2c8409d1146ba0b8849769fe3dc8c0c23c",
+      "Hwid": "",
       "UID": "812",
       "Nick": "Sant1kx",
       "Role": "Admin",
       "Type": "Premium"
     },
     {
-      "Hwid": "91a22cecaf870b3e7a48eb4d93e165793410fbd269c714309ee6003a789ae813",
-      "UID": "67",
-      "Nick": "danic2011",
+      "Hwid": "",
+      "UID": "",
+      "Nick": "",
       "Role": "User",
       "Type": "premium"
     },
     {
-      "Hwid": "0d85820ce0c2e53917f3ea4586256fe0451f2debdeed1be52354c4de9e26df1b",
-      "UID": "1337",
-      "Nick": "SilentNeww",
+      "Hwid": "",
+      "UID": "",
+      "Nick": "",
       "Role": "User",
       "Type": "premium"
     }
